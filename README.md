@@ -131,23 +131,7 @@ Applicants can remove their data from the system by providing their name and con
 
 ---
 
-## Limitations
 
-* Command-line based interface
-* No authentication or security features
-* Skills stored as text instead of normalized structure
-* Not suitable for large-scale deployment
-
----
-
-## Future Enhancements
-
-* Graphical User Interface (GUI) for better usability
-* Login system for applicants and recruiters
-* Resume upload and management
-* Candidate ranking system based on multiple parameters
-* Job recommendation system
-* Predictive analysis for future skill demand
 
 ---
 
